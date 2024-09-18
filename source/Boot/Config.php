@@ -4,5 +4,5 @@ const CONF_DB_USER = "root";
 const CONF_DB_PASS = "";
 // aqui deve ser alterado para o nome do banco de dados
 const CONF_DB_NAME = "bd_accelerated";
-const CONF_URL_TEST = "http://localhost/projetobrunolaura";
-const CONF_URL_BASE = "http://localhost/projetobrunolaura";
+const CONF_URL_TEST = "http://localhost/emergencyconnect";
+const CONF_URL_BASE = "http://localhost/emergencyconnect";
